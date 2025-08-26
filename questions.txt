@@ -1,0 +1,1 @@
+Decide the 5 players that will play the next match. You need to pick one Goal Keeper, two defensing and two attacking plaers. Justify your decision by comparing the selected players with the average in their role. Explain what criteria you used to deciee who is the defensor and who is the attacker and who is the goal keeper.
